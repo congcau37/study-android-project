@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonClickEvent</string>
+
+    <string name="btn1">Button1</string>
+    <string name="btn2">Button2</string>
+    <string name="btn3">Button3</string>
+    <string name="btn4">Button4</string>
+    <string name="btn5">Button5</string>
+</resources>

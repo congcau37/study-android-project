@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">VN Calendar</string>
+    <string name="press_once_more_to_exit">Ấn thêm một lần để thoát</string>
+
+    <string name="su_kien">Sự kiện</string>
+    <string name="lich_duong">Dương lịch: </string>
+    <string name="lich_am">Âm lịch:</string>
+    <string name="dong">Đóng</string>
+    <string name="hom_nay">Hôm nay</string>
+    <string name="day_off">Ngày nghỉ:</string>
+
+
+    <string name="new_year_date">Tết Dương Lịch 2018 (30/12/2017 - 1/1/2018)</string>
+    <string name="am_lich_date">Tết Nguyên Đán 2018 (14/02/2018 - 20/02/2018)</string>
+    <string name="gio_to_hung_vuong">Giỗ tổ Hùng Vương</string>
+    <string name="giai_phong_mien_nam">Ngày Giải phóng miền Nam thống nhất đất nước</string>
+    <string name="quoc_te_ld">Quốc tế Lao Động</string>
+    <string name="quoc_khanh">Quốc khánh 2/9</string>
+    <string name="tet_duong_lich">Tết Dương Lịch</string>
+    <string name="sinh_vien_vn">Ngày học sinh - sinh viên Việt Nam</string>
+    <string name="tet_nguyen_dan">Tết Nguyên Đán</string>
+    <string name="tet_nguyen_tieu">Tết Nguyên tiêu</string>
+    <string name="thanh_lap_dcsvn">Thành lập Đảng Cộng sản Việt Nam</string>
+    <string name="quoc_te_phu_nu">Ngày quốc tế phụ nữ</string>
+    <string name="quoc_te_hp">Ngày Quốc tế Hạnh phúc</string>
+    <string name="nuoc_sach_tg">Ngày Nước sạch Thế giới</string>
+    <string name="thanh_lap_tncshcm">Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh</string>
+    <string name="the_thao_vn">Ngày Thể thao Việt Nam</string>
+    <string name="tet_han_thuc">Tết Hàn thực</string>
+    <string name="sach_vn">Ngày Sách Việt Nam</string>
+    <string name="ngay_trai_dat">Ngày Trái đất</string>
+    <string name="tet_khmer">Tết dân tộc Khmer</string>
+    <string name="tet_phat_dan">Tết Phật Đản</string>
+    <string name="chien_thang_dbp">Ngày chiến thắng Điện Biên Phủ</string>
+    <string name="thanh_lap_tntphcb">Ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh</string>
+    <string name="ngay_sinh_hcm">Ngày sinh của Chủ tịch Hồ Chí Minh</string>
+    <string name="tet_doan_ngo">Tết Đoan Ngọ</string>
+    <string name="quoc_te_thieu_nhi">Ngày Quốc tế Thiếu nhi</string>
+    <string name="bac_ho_tim_duong">Ngày Bác Hồ ra đi tìm đường cứu nước</string>
+    <string name="moi_truong_tg">Ngày môi trường thế giới</string>
+    <string name="gia_dinh_viet_nam">Ngày Gia đình Việt Nam</string>
+    <string name="thuong_binh_liet_si">Ngày Thương binh Liệt sĩ</string>
+    <string name="vu_lan">Lễ Vu Lan</string>
+    <string name="cach_mang_t8">Ngày Cách mạng tháng Tám thành công</string>
+    <string name="tet_kate">Tết Katê</string>
+    <string name="trung_thu">Trung thu</string>
+    <string name="tet_trung_cuu">Tết Trùng Cửu</string>
+    <string name="doanh_nhan_vn">Ngày Doanh nhân Việt Nam</string>
+    <string name="hoi_pn_vn">Ngày thành lập Hội Phụ nữ Việt Nam</string>
+    <string name="tet_trung_thap">Tết Trùng Thập</string>
+    <string name="nha_giao_vn">Ngày Nhà giáo Việt Nam</string>
+    <string name="qd_nd_vn">Ngày thành lập Quân đội Nhân dân Việt Nam</string>
+    <string name="giang_sinh">Ngày Lễ Giáng Sinh</string>
+    <string name="ong_tao">Ông Táo chầu trời</string>
+    <string name="chu_nhat">CN</string>
+    <string name="thu_2">T2</string>
+    <string name="thu_3">T3</string>
+    <string name="thu_4">T4</string>
+    <string name="thu_5">T5</string>
+    <string name="thu_6">T6</string>
+    <string name="thu_7">T7</string>
+
+    <string-array name="array_month">
+        <item>T1</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+        <item>T8</item>
+        <item>T9</item>
+        <item>T10</item>
+        <item>T11</item>
+        <item>T12</item>
+    </string-array>
+
+    <string-array name="array_month_full">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+
+</resources>

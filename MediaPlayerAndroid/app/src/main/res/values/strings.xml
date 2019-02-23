@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayerAndroid</string>
+    <string name="btn_rewind">--</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_fastfoward">++</string>
+</resources>

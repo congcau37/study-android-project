@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteAssetHelper</string>
+    <string name="txt_title">Student Management System</string>
+    <string name="btn_show">Show</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_change">Change</string>
+    <string name="txt_name">Name: </string>
+    <string name="txt_age">Age: </string>
+</resources>

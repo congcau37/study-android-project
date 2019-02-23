@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentHidingAndReplace</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_show_fragment_a">FragmentA</string>
+    <string name="btn_show_fragment_b">FragmentB</string>
+    <string name="btn_show_fragment_c">FragmentC</string>
+</resources>

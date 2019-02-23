@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextViewAndroid</string>
+    <string name="txt">Hello Android</string>
+    <string name="txt_new_content">Hello Android, My name is TextView</string>
+</resources>

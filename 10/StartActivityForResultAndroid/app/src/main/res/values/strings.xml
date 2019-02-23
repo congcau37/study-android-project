@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StartActivityForResultAndroid</string>
+    <string name="txt_input_number">Number...</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_back">Back</string>
+</resources>

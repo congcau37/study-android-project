@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/txtInputName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/txt_input_name" />
+
+    <EditText
+        android:id="@+id/txtInputAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtInputName"
+        android:hint="@string/txt_input_age" />
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:onClick="addNewStudent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtInputAge"
+        android:text="@string/btn_add" />
+
+    <GridView
+        android:id="@+id/gvStudents"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btnAdd"
+        android:numColumns="2" />
+
+</RelativeLayout>

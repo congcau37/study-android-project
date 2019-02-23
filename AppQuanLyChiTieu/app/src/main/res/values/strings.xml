@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppQuanLyChiTieu</string>
+    <string name="btn_ThongKeGiaoDich">Thống kê giao dịch</string>
+    <string name="btn_GioiThieu">Giới Thiệu</string>
+    <string name="btn_ThemGiaoDich">Thêm giao dịch</string>
+    <string name="rbt_KhoanChi">Khoan Chi</string>
+    <string name="rbt_KhoanThu">KhoanThu</string>
+    <string name="edt_SoTien">Nhap so tien</string>
+    <string name="edt_LyDo">Ly do</string>
+    <string name="edt_Ngay">Nhap ngay</string>
+    <string name="edt_Thang">Nhap thang</string>
+    <string name="btn_Luu_Giao_Dich">Luu giao dich</string>
+
+</resources>

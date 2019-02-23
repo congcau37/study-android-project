@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnimationInAndroid</string>
+
+    <string name="btn_alpha">Alpha</string>
+    <string name="btn_scale">Scale</string>
+    <string name="btn_translate">Translate</string>
+    <string name="btn_rotate">Rotate</string>
+    <string name="btn_mix">Mix</string>
+</resources>

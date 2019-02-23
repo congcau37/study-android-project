@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentTraining</string>
+
+    <!--activity main-->
+    <string name="txt_name">Name...</string>
+    <string name="txt_age">Age...</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_send">Send</string>
+</resources>

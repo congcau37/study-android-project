@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginFormInAndroid</string>
+    <string name="txt_welcome">Welcome</string>
+    <string name="txt_email">Email:</string>
+    <string name="txt_password">Password:</string>
+    <string name="btn_login">Login</string>
+</resources>

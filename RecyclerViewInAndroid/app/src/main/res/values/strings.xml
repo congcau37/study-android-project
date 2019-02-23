@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewInAndroid</string>
+
+    <!-- custom items student-->
+    <string name="txt_name">Nguyen Van A</string>
+    <string name="txt_age">28</string>
+</resources>

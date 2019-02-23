@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTaskAndroid</string>
+    <string name="txt_title">Sleep Times In Second</string>
+    <string name="btn_run">Run</string>
+</resources>

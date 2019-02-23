@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridViewAndroid</string>
+    <string name="txt_input_country_name">Country Name...</string>
+    <string name="btn_add">Add</string>
+</resources>

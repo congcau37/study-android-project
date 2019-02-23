@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlertDialogAndroid</string>
+
+    <string name="btn_show_normal_alert_dialog">Show Normal Alert Dialog</string>
+    <string name="btn_show_alert_dialog_list">Show Alert Dialog List</string>
+    <string name="btn_show_custom_alert_dialog">Show Custom Alert Dialog</string>
+    <string name="txt_email">Email: </string>
+    <string name="txt_password">Password: </string>
+    <string name="btn_login">Login</string>
+</resources>

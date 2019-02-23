@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoundServiceAndroid</string>
+    <string name="txt_title">Bound Service In Android</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_fastfoward">Fast Foward</string>
+</resources>

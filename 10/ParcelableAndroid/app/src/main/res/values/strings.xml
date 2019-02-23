@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParcelableAndroid</string>
+    <string name="btn_add">Add</string>
+    <string name="txt_input_name">Name...</string>
+    <string name="txt_input_age">Age...</string>
+    <string name="btn_show">Show</string>
+</resources>
